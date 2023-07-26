@@ -5,5 +5,5 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Mizuha-hk&count_private=true&show_icons=true&show_icons=true" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mizuha-hk&column=6
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mizuha-hk&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
